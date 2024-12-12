@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:backpack|true", "sophisticatedbackpacks:auto_blasting_upgrade|true", "sophisticatedbackpacks:pump_upgrade|true", "sophisticatedbackpacks:blasting_upgrade|true", "sophisticatedbackpacks:jukebox_upgrade|true", "sophisticatedbackpacks:advanced_tool_swapper_upgrade|true", "sophisticatedbackpacks:xp_pump_upgrade|true", "sophisticatedbackpacks:tank_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:tool_swapper_upgrade|true"]
+
