@@ -627,3 +627,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 02:19:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [The Most Useful Key]
 [13Dec2024 02:19:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Direwolf
 [13Dec2024 02:19:13.677] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:20:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by The Moonflower
+[13Dec2024 02:20:44.323] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:20:49.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by The Moonflower
+[13Dec2024 02:20:49.023] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 02:21:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Here They Come]
+[13Dec2024 02:21:15.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [Here They Come]
+[13Dec2024 02:21:31.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Knowledge of Death]
+[13Dec2024 02:21:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Chain Death]
+[13Dec2024 02:21:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was shot by Skeleton
+[13Dec2024 02:21:31.624] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:22:41.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [You Are A Pirate]
+[13Dec2024 02:22:48.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Corpse Fish
+[13Dec2024 02:22:48.238] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:23:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Ocean Creeper
+[13Dec2024 02:23:14.515] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 02:23:14.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.4053200134359063
+[13Dec2024 02:23:14.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7294312362101962
+[13Dec2024 02:23:14.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.4991830795304324
+[13Dec2024 02:23:14.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7294312362101962
+[13Dec2024 02:23:14.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7294312362101962
+[13Dec2024 02:23:14.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.5222079006879525
+[13Dec2024 02:23:14.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.33570690365851874
+[13Dec2024 02:23:14.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:14.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:14.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:14.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:14.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:14.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciu_black) moved wrongly! 0.7531465641660244
+[13Dec2024 02:23:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [You Are A Pirate]
+[13Dec2024 02:24:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Deepling Brute
+[13Dec2024 02:24:41.821] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:24:56.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[13Dec2024 02:24:56.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 02:24:56.661] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:25:06.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Corpse Fish
+[13Dec2024 02:25:06.767] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 02:26:02.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Stone Age]
+[13Dec2024 02:26:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Getting an Upgrade]
+[13Dec2024 02:27:26.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:54379] logged in with entity id 5613 at (-0.9193061657680347, 61.795901522225, 112.66094502371638)
+[13Dec2024 02:27:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 02:27:56.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Timed out
+[13Dec2024 02:27:56.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 02:29:32.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:38569] logged in with entity id 5922 at (-0.9193061657680347, 61.795901522225, 112.66094502371638)
+[13Dec2024 02:29:32.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
