@@ -745,3 +745,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 02:49:44.754] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
 [13Dec2024 02:49:44.756] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
 [13Dec2024 02:49:44.894] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[13Dec2024 02:49:50.184] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[13Dec2024 02:50:15.155] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
+[13Dec2024 02:50:15.155] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[13Dec2024 02:50:15.156] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[13Dec2024 02:50:15.216] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
+[13Dec2024 02:50:15.407] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[13Dec2024 02:50:15.408] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[13Dec2024 02:50:15.408] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[13Dec2024 02:50:15.409] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[13Dec2024 02:50:15.412] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[13Dec2024 02:50:15.413] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[13Dec2024 02:50:15.417] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[13Dec2024 02:50:15.438] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[13Dec2024 02:50:19.718] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-385}
+[13Dec2024 02:50:19.719] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-385}
+[13Dec2024 02:50:19.782] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[13Dec2024 02:50:19.956] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[13Dec2024 02:50:19.957] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
+[13Dec2024 02:50:24.079] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[13Dec2024 02:50:24.080] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[13Dec2024 02:50:24.146] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[13Dec2024 02:50:24.146] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-338}
+[13Dec2024 02:50:24.147] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[13Dec2024 02:50:24.167] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[13Dec2024 02:50:24.295] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[13Dec2024 02:50:24.296] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[13Dec2024 02:50:24.298] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
+[13Dec2024 02:50:24.514] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[13Dec2024 02:50:24.515] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=25, z=-365}
+[13Dec2024 02:50:24.516] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[13Dec2024 02:50:31.610] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[13Dec2024 02:50:42.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Stone Age]
+[13Dec2024 02:50:54.981] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-316}
+[13Dec2024 02:50:54.981] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-317}
+[13Dec2024 02:50:55.000] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-316}
+[13Dec2024 02:50:55.001] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=25, z=-317}
+[13Dec2024 02:50:55.001] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=31, z=-312}
+[13Dec2024 02:50:55.002] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=31, z=-313}
+[13Dec2024 02:50:55.155] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-308}
+[13Dec2024 02:50:55.156] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=27, z=-308}
+[13Dec2024 02:51:07.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[13Dec2024 02:51:10.394] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[13Dec2024 02:51:10.395] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
+[13Dec2024 02:51:10.398] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[13Dec2024 02:51:10.768] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[13Dec2024 02:51:10.768] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[13Dec2024 02:51:10.919] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[13Dec2024 02:51:17.614] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[13Dec2024 02:51:17.614] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[13Dec2024 02:51:17.615] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
+[13Dec2024 02:51:17.615] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[13Dec2024 02:51:21.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Skeleton
+[13Dec2024 02:51:21.921] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:52:50.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Chompy]
+[13Dec2024 02:52:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Crocodile
+[13Dec2024 02:52:55.477] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:53:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [Flowers of the Savanna]
+[13Dec2024 02:54:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Crocodile
+[13Dec2024 02:54:42.477] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:55:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 02:55:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[13Dec2024 02:55:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black drowned
+[13Dec2024 02:55:33.682] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 02:56:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 02:56:38.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opluciu_black<--[HERE]
+[13Dec2024 02:56:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luciu_black a server operator
+[13Dec2024 02:57:10.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=74, z=-56}
+[13Dec2024 02:57:12.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=73, z=-56}
+[13Dec2024 02:57:43.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alejaso> sssssssssas
+[13Dec2024 02:59:05.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[13Dec2024 02:59:15.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alejaso> butoooo
+[13Dec2024 02:59:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alejaso a server operator
+[13Dec2024 02:59:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alejaso: Set own game mode to Creative Mode]
