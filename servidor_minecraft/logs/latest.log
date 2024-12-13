@@ -608,3 +608,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 02:01:33.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
 [13Dec2024 02:01:50.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
 [13Dec2024 02:01:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[13Dec2024 02:11:40.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:50977] logged in with entity id 1546 at (-21.5, 69.0, -48.5)
+[13Dec2024 02:11:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 02:11:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Christmas]
+[13Dec2024 02:11:40.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has completed the challenge [The Undead]
+[13Dec2024 02:11:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Ice and Fire]
+[13Dec2024 02:11:47.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:53595] logged in with entity id 1620 at (-12.300000011920929, 65.0, -70.60697125744784)
+[13Dec2024 02:11:47.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[13Dec2024 02:13:07.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Alex's Mobs]
+[13Dec2024 02:14:11.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was struck by lightning
+[13Dec2024 02:14:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Your First Grave]
+[13Dec2024 02:14:11.777] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 02:14:15.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [The Most Useful Key]
+[13Dec2024 02:14:17.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Monster Hunter]
+[13Dec2024 02:19:06.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Door Knight
+[13Dec2024 02:19:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Your First Grave]
+[13Dec2024 02:19:06.297] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 02:19:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [The Most Useful Key]
+[13Dec2024 02:19:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Direwolf
+[13Dec2024 02:19:13.677] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
