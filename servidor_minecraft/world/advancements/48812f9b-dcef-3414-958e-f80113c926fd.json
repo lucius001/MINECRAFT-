@@ -133,10 +133,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2024-12-13 02:35:33 +0000",
       "minecraft:beach": "2024-12-13 02:21:19 +0000",
       "minecraft:sparse_jungle": "2024-12-13 00:28:32 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 02:22:43 +0000",
       "minecraft:river": "2024-12-13 02:20:25 +0000",
+      "minecraft:desert": "2024-12-13 02:34:42 +0000",
+      "minecraft:warm_ocean": "2024-12-13 02:34:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-13 02:23:50 +0000"
     },
     "done": false
@@ -171,9 +174,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-13 02:32:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2024-12-13 02:23:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 02:32:33 +0000"
     },
     "done": true
   },
@@ -189,6 +204,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-13 02:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-13 02:12:38 +0000"
@@ -198,6 +225,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 02:14:17 +0000",
+      "minecraft:vindicator": "2024-12-13 02:32:33 +0000",
       "minecraft:zombie": "2024-12-13 02:17:33 +0000"
     },
     "done": false
@@ -220,9 +248,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2024-12-13 02:33:44 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-13 02:19:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 02:32:33 +0000"
     },
     "done": true
   },

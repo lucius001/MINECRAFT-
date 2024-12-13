@@ -672,3 +672,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 02:27:56.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
 [13Dec2024 02:29:32.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:38569] logged in with entity id 5922 at (-0.9193061657680347, 61.795901522225, 112.66094502371638)
 [13Dec2024 02:29:32.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 02:31:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Suit Up]
+[13Dec2024 02:32:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Ambush]
+[13Dec2024 02:32:31.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Monster Hunter]
+[13Dec2024 02:32:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Knowledge of Death]
+[13Dec2024 02:32:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Ambush]
+[13Dec2024 02:32:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Suit Up]
