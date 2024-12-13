@@ -4089,3 +4089,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 00:30:40.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2301, l='ServerLevel[world]', x=-2.50, y=78.00, z=-2.50]
 [13Dec2024 00:32:10.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2492, l='ServerLevel[world]', x=7.50, y=79.00, z=-14.50]
 [13Dec2024 00:33:58.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2725, l='ServerLevel[world]', x=-0.50, y=78.00, z=-1.50]
+[13Dec2024 00:35:01.542] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2866, l='ServerLevel[world]', x=6.50, y=79.00, z=-14.50]
+[13Dec2024 00:36:56.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3226, l='ServerLevel[world]', x=-25.50, y=70.00, z=15.50]
+[13Dec2024 00:37:31.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3295, l='ServerLevel[world]', x=-2.50, y=78.00, z=-0.50]
+[13Dec2024 00:37:50.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3322, l='ServerLevel[world]', x=-0.50, y=78.00, z=-2.50]
+[13Dec2024 00:39:41.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3529, l='ServerLevel[world]', x=6.50, y=79.00, z=-15.50]
+[13Dec2024 00:39:54.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3547, l='ServerLevel[world]', x=8.50, y=79.00, z=-15.50]
+[13Dec2024 00:40:18.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[13Dec2024 00:40:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[13Dec2024 00:42:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 00:42:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 00:42:35.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 00:42:36.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Dec2024 00:42:38.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[13Dec2024 00:42:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[13Dec2024 00:42:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[13Dec2024 00:42:38.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Dec2024 00:42:38.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[13Dec2024 00:42:38.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[13Dec2024 00:42:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[13Dec2024 00:42:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[13Dec2024 00:42:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[13Dec2024 00:42:38.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Dec2024 00:42:38.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[13Dec2024 00:42:38.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[13Dec2024 00:42:38.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[13Dec2024 00:42:38.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[13Dec2024 00:42:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Dec2024 00:42:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Dec2024 00:42:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 00:42:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
