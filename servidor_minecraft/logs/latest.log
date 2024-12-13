@@ -4712,3 +4712,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 18:17:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luciu_black a server operator
 [13Dec2024 18:17:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
 [13Dec2024 18:19:59.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Alex's Mobs]
+[13Dec2024 18:24:59.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [To Infinity and Beyond]
+[13Dec2024 18:25:17.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Baby's First Rocket]
+[13Dec2024 18:26:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Amateur Archaeologist]
+[13Dec2024 18:26:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Sweet Dreams]
+[13Dec2024 18:28:11.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[13Dec2024 18:28:11.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[13Dec2024 18:30:22.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:38131] logged in with entity id 3200 at (-13.078731443825065, 86.15814676123665, 24.168962363115757)
+[13Dec2024 18:30:22.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[13Dec2024 18:30:22.378] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[13Dec2024 18:31:45.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[13Dec2024 18:31:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
