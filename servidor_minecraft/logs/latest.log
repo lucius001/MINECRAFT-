@@ -818,3 +818,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 02:59:15.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alejaso> butoooo
 [13Dec2024 02:59:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alejaso a server operator
 [13Dec2024 02:59:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alejaso: Set own game mode to Creative Mode]
+[13Dec2024 03:00:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [To Infinity and Beyond]
+[13Dec2024 03:02:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [I Am Become Death]
+[13Dec2024 03:04:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 24.49579586811909,1.8299988551369069,20.50980281098058
+[13Dec2024 03:04:32.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 24.504986896081178,1.8372881586334273,20.48339190520261
+[13Dec2024 03:04:33.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 24.51732488520893,1.8372881586334273,20.498621285265543
+[13Dec2024 03:04:33.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 24.51732488520893,1.8372881586334273,20.498621285265543
+[13Dec2024 03:04:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has completed the challenge [We'll Meet Again]
+[13Dec2024 03:05:08.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved too quickly! -7.356312922376233,12.3710184086016,14.615888195318998
+[13Dec2024 03:05:08.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved too quickly! -14.083128556418345,22.0227863035485,27.960679540767288
+[13Dec2024 03:05:11.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! -23.905835847856405,24.138588670578088,0.0
+[13Dec2024 03:05:12.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! -23.30908675660715,24.728596914680494,0.6789920998326835
+[13Dec2024 03:05:12.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! -22.75349025666683,25.23995573163721,1.3325214323532961
+[13Dec2024 03:05:12.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! -22.15327151856024,25.74840938385765,2.01178460227802
+[13Dec2024 03:05:13.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[13Dec2024 03:05:13.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 20.834679941758473,18.01543966663275,19.664141007910775
+[13Dec2024 03:05:13.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 20.751252059796485,18.01543966663275,19.612723217161466
+[13Dec2024 03:05:14.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 20.751252059796485,18.01543966663275,19.612723217161466
+[13Dec2024 03:05:14.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 20.751252059796485,18.01543966663275,19.612723217161466
+[13Dec2024 03:05:14.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! 20.751252059796485,18.01543966663275,19.612723217161466
+[13Dec2024 03:05:31.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[13Dec2024 03:06:23.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Dec2024 03:06:36.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Timed out
+[13Dec2024 03:06:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 03:07:01.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23668ms or 473 ticks behind
+[13Dec2024 03:07:07.786] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@234e0722[id=<null>,name=Alejaso,properties={},legacy=false] (/127.88.104.80:42911) lost connection: Disconnected
+[13Dec2024 03:07:30.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13573ms or 271 ticks behind
+[13Dec2024 03:07:54.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9380ms or 187 ticks behind
+[13Dec2024 03:08:19.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9503ms or 190 ticks behind
+[13Dec2024 03:08:36.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[13Dec2024 03:08:58.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:57253] logged in with entity id 25671 at (49.25428988726482, 22.250190626631696, -57.15448425339069)
+[13Dec2024 03:08:58.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 03:09:26.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[13Dec2024 03:09:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[13Dec2024 03:09:26.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[13Dec2024 03:09:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 03:09:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 03:09:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 03:09:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 03:09:26.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Dec2024 03:09:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[13Dec2024 03:09:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Dec2024 03:09:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[13Dec2024 03:09:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[13Dec2024 03:09:27.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Dec2024 03:09:27.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[13Dec2024 03:09:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[13Dec2024 03:09:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Dec2024 03:09:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[13Dec2024 03:09:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[13Dec2024 03:09:27.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[13Dec2024 03:09:27.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[13Dec2024 03:09:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[13Dec2024 03:09:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[13Dec2024 03:09:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[13Dec2024 03:09:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Dec2024 03:09:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 03:09:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
